@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:164E63,100:2563EB&height=220&section=header&text=Luciano%20Silveira&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=QA%20%7C%20Qualidade%20de%20Software%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner Luciano Silveira — QA e automação" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:164E63,100:2563EB&height=220&section=header&text=Luciano%20Silveira&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=QA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20aplicada%20%C3%A0%20qualidade&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner Luciano Silveira — QA, automação e inteligência artificial aplicada à qualidade" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucianosf"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/lucianossf?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-PROJETOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio GitHub" /></a>
+  <a href="https://www.linkedin.com/in/lucianosf"><img src="https://img.shields.io/badge/LINKEDIN-CONECTE--SE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" /></a>
+  <a href="https://github.com/lucianossf?tab=repositories"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-VER%20PROJETOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Veja meus projetos no GitHub" /></a>
 </p>
 
 <h2 align="center">Qualidade pensada desde o primeiro requisito.</h2>
 
-<p align="center">Analista de QA com foco em testes funcionais, automação e uso de inteligência artificial para apoiar atividades de qualidade. Transformo requisitos em cenários claros, evidências úteis e mais confiança para cada entrega.</p>
+<p align="center">Analista de QA com foco em testes funcionais, automação e inteligência artificial aplicada a testes. Transformo requisitos em cenários claros, evidências úteis e mais confiança para cada entrega.</p>
 
 ---
 
@@ -21,12 +21,12 @@
     <td width="50%"><strong>02 · Automação</strong><br/>Fluxos E2E e API com foco em legibilidade, manutenção e feedback rápido.</td>
   </tr>
   <tr>
-    <td width="50%"><strong>03 · IA aplicada a QA</strong><br/>Uso de IA para resumir requisitos, sugerir cenários de teste e apoiar a análise de logs e evidências.</td>
+    <td width="50%"><strong>03 · IA aplicada a QA</strong><br/>IA para resumir requisitos, sugerir cenários e apoiar a análise de logs e evidências.</td>
     <td width="50%"><strong>04 · Entrega contínua</strong><br/>BDD, Page Object Model, Git, GitHub e GitHub Actions.</td>
   </tr>
 </table>
 
-> A IA acelera tarefas e amplia possibilidades; o QA confere o contexto, valida as sugestões e decide com base em evidências.
+> A inteligência artificial pode acelerar tarefas de QA, ajudar a explorar casos de teste e organizar informações. A validação humana continua essencial: o QA confere contexto, verifica resultados e toma decisões com base em evidências.
 
 ## ✦ Stack de qualidade
 
@@ -52,16 +52,14 @@
 | [Playwright SauceDemo](https://github.com/lucianossf/playwright-saucedemo) | Automação E2E com Playwright e TypeScript |
 | [Parabank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes automatizados com Robot Framework |
 
-## ✦ GitHub em movimento
+## ✦ Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianossf&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Resumo das estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Linguagens nos repositórios públicos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianossf&locale=pt-br&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Resumo das estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&locale=pt-br&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Linguagens nos repositórios públicos" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianossf&bg_color=0B1020&color=CBD5E1&line=38BDF8&point=67E8F9&area=true&hide_border=true" alt="Gráfico de atividade pública do GitHub" width="100%" />
-</p>
+<p align="center"><sub>O calendário de contribuições do GitHub continua disponível no perfil. Os cartões acima resumem estatísticas públicas e linguagens dos repositórios.</sub></p>
 
 ---
 
