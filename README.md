@@ -1,56 +1,58 @@
-# 👋 Olá, eu sou Luciano
+# Luciano Silveira
 
-### QA | Qualidade de Software | Automação de Testes
+### Analista de QA | Qualidade de Software | Automação de Testes
 
-Construindo experiências digitais mais confiáveis por meio de testes bem pensados, automação e melhoria contínua.
+Atuo com qualidade de software, combinando análise funcional, pensamento crítico e automação para ajudar equipes a entregar produtos mais confiáveis.
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucianossf-181717?style=for-the-badge&logo=github)](https://github.com/lucianossf)
-[![QA](https://img.shields.io/badge/Foco-Quality%20Assurance-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianosf)
+[![GitHub](https://img.shields.io/badge/GitHub-lucianossf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianossf)
 
 ---
 
-## 🚀 Sobre mim
+## Perfil profissional
 
-Sou profissional de QA com interesse em qualidade de software, testes funcionais e automação. Gosto de entender regras de negócio, explorar cenários e transformar riscos em validações claras.
+Experiência e projetos em garantia da qualidade de aplicações web, com atuação em testes manuais e automação. Trabalho com entendimento de requisitos, elaboração de cenários, execução de testes e registro de evidências para apoiar decisões de qualidade.
 
-- 🔎 Testes funcionais, exploratórios e regressivos
-- 🤖 Automação E2E com **Playwright** e **Robot Framework**
-- 🧩 Práticas de automação com **TypeScript** e **JavaScript**
-- ⚙️ Integração e execução de fluxos com **GitHub Actions**
-- 📚 Aprendizado contínuo em qualidade e automação
+- **Testes:** funcionais, exploratórios, regressivos e de API
+- **Automação:** Playwright, Cypress, Robot Framework e Selenium
+- **Linguagens:** TypeScript, JavaScript e Python
+- **Práticas:** BDD, Page Object Model e dados de teste
+- **Entrega contínua:** Git, GitHub e GitHub Actions
 
-## 🧰 Ferramentas e tecnologias
+## Projetos selecionados
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📌 Projetos em destaque
-
-| Projeto | O que você encontra |
+| Projeto | Descrição |
 |---|---|
-| [🏥 Hospital Playwright Tests](https://github.com/lucianossf/hospital-playwright-tests) | Automação E2E com Playwright, TypeScript, Page Objects e GitHub Actions |
-| [🛍️ Retail Playwright Tests](https://github.com/lucianossf/retail-playwright-tests) | Cenários E2E para varejo e PDV com Playwright e TypeScript |
-| [🧪 ParaBank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes de cadastro e validação com Robot Framework |
-| [🎯 Desafio QA Automation DemoQA](https://github.com/lucianossf/desafio-qa-automation-demoqa) | Exercícios e práticas de automação de testes |
-| [🛒 Amazon Web Test](https://github.com/lucianossf/amazon_web_test) | Projeto de prática em automação de testes web |
+| [Hospital Playwright Tests](https://github.com/lucianossf/hospital-playwright-tests) | Automação E2E com Playwright, TypeScript, Page Objects e GitHub Actions |
+| [Retail Playwright Tests](https://github.com/lucianossf/retail-playwright-tests) | Cenários E2E para fluxos de varejo e ponto de venda |
+| [Desafio QA Automation DemoQA](https://github.com/lucianossf/desafio-qa-automation-demoqa) | Automação web e API, BDD com Cucumber e execução contínua |
+| [Parabank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes de cadastro e validação com Robot Framework |
+| [Playwright SauceDemo](https://github.com/lucianossf/playwright-saucedemo) | Projeto de automação E2E com Playwright e TypeScript |
 
-## 📊 Meu GitHub
+## Tecnologias
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucianossf&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Luciano" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucianossf&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas públicas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens nos repositórios públicos" />
 </p>
 
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lucianossf&theme=tokyo-night&hide_border=true)](https://github.com/lucianossf)
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=lucianossf&theme=tokyo-night&hide_border=true)](https://github.com/lucianossf)
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lucianossf&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/lucianossf)
+---
 
-## 💬 Vamos conversar?
+### Contato profissional
 
-Tenho interesse em trocar experiências sobre QA, testes de software e automação. Confira meus repositórios e acompanhe minha jornada por aqui.
+Estou aberto a conexões e conversas sobre QA, qualidade de software e automação de testes.
 
-[![Visite meu perfil](https://img.shields.io/badge/Visite_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianossf?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/lucianosf) · [GitHub](https://github.com/lucianossf)
