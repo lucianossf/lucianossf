@@ -9,7 +9,7 @@
 
 <h2 align="center">Qualidade pensada desde o primeiro requisito.</h2>
 
-<p align="center">Analista de QA com foco em testes funcionais e automação. Transformo requisitos em cenários claros, evidências úteis e mais confiança para cada entrega.</p>
+<p align="center">Analista de QA com foco em testes funcionais, automação e uso de inteligência artificial para apoiar atividades de qualidade. Transformo requisitos em cenários claros, evidências úteis e mais confiança para cada entrega.</p>
 
 ---
 
@@ -21,14 +21,17 @@
     <td width="50%"><strong>02 · Automação</strong><br/>Fluxos E2E e API com foco em legibilidade, manutenção e feedback rápido.</td>
   </tr>
   <tr>
-    <td width="50%"><strong>03 · Qualidade contínua</strong><br/>BDD, Page Object Model, dados de teste e registro de evidências.</td>
-    <td width="50%"><strong>04 · Entrega</strong><br/>Integração de automação ao fluxo de CI com Git, GitHub e GitHub Actions.</td>
+    <td width="50%"><strong>03 · IA aplicada a QA</strong><br/>Uso de IA para resumir requisitos, sugerir cenários de teste e apoiar a análise de logs e evidências.</td>
+    <td width="50%"><strong>04 · Entrega contínua</strong><br/>BDD, Page Object Model, Git, GitHub e GitHub Actions.</td>
   </tr>
 </table>
+
+> A IA acelera tarefas e amplia possibilidades; o QA confere o contexto, valida as sugestões e decide com base em evidências.
 
 ## ✦ Stack de qualidade
 
 <p>
+  <img src="https://img.shields.io/badge/IA%20aplicada-412991?style=flat-square&logo=openai&logoColor=white" alt="Inteligência artificial aplicada a QA" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework" />
