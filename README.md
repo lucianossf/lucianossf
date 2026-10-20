@@ -61,6 +61,13 @@
 | [Parabank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes de cadastro e validação de usuário com Robot Framework. |
 | [Amazon Web Test](https://github.com/lucianossf/amazon_web_test) | Exercício de testes web criado para prática e desenvolvimento de habilidades em QA. |
 
+### Produtos digitais e aplicações
+
+| Projeto | Escopo |
+|:--|:--|
+| [AutoHub ERP — apresentação do projeto](https://www.linkedin.com/posts/lucianosf_desenvolvimentodesoftware-nestjs-reactjs-activity-7471199990636351488-CO0M) | Sistema de gestão de veículos desenvolvido do zero para um cliente, com estoque, geração de comprovantes em PDF, painel financeiro e arquitetura multi-tenant. |
+| [LS Anúncios — acessar o site](https://ls-anuncios.vercel.app/) | Plataforma de classificados online em desenvolvimento, com frontend, backend, anúncios, autenticação e área administrativa. |
+
 ### DevOps e aprendizado contínuo
 
 | Projeto | Escopo |
