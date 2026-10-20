@@ -76,6 +76,22 @@
 
 ## ✦ Atividade no GitHub
 
+### LS Anúncios · frontend e backend
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+</p>
+
+<p><sub>O LS Anúncios usa TypeScript, CSS e JavaScript na aplicação, com backend em Node.js/NestJS, PostgreSQL e TypeORM. Os cartões de linguagens abaixo refletem os repositórios públicos.</sub></p>
+
+
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianossf&locale=pt-br&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Resumo das estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&locale=pt-br&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Linguagens nos repositórios públicos" />
