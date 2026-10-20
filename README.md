@@ -42,15 +42,30 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## ✦ Projetos em destaque
+## ✦ Projetos e estudos
 
-| Projeto | Destaque |
+### Qualidade e estratégia de testes
+
+| Projeto | Escopo |
 |:--|:--|
-| [Hospital Playwright Tests](https://github.com/lucianossf/hospital-playwright-tests) | E2E · Playwright · TypeScript · Page Objects · GitHub Actions |
-| [Retail Playwright Tests](https://github.com/lucianossf/retail-playwright-tests) | E2E para fluxos de varejo e ponto de venda |
-| [QA Automation DemoQA](https://github.com/lucianossf/desafio-qa-automation-demoqa) | Web e API · BDD com Cucumber · execução contínua |
-| [Playwright SauceDemo](https://github.com/lucianossf/playwright-saucedemo) | Automação E2E com Playwright e TypeScript |
-| [Parabank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes automatizados com Robot Framework |
+| [Desafio Beedoo QA](https://github.com/lucianossf/DESAFIO-QA-BEEDOO-2025) | Análise funcional do módulo de cursos: criação, exclusão e listagem; foco em cobertura e comportamento esperado. |
+| [QA Automation DemoQA](https://github.com/lucianossf/desafio-qa-automation-demoqa) | Exercícios de QA para aplicações web e API, com cenários BDD e automação. |
+
+### Automação de testes
+
+| Projeto | Escopo |
+|:--|:--|
+| [Hospital Playwright Tests](https://github.com/lucianossf/hospital-playwright-tests) | E2E no OpenEMR · Playwright · TypeScript · Page Objects · GitHub Actions. |
+| [Retail Playwright Tests](https://github.com/lucianossf/retail-playwright-tests) | E2E para fluxos de varejo e ponto de venda · Playwright · TypeScript. |
+| [Playwright SauceDemo](https://github.com/lucianossf/playwright-saucedemo) | Automação E2E com Playwright e TypeScript. |
+| [Parabank Web Teste](https://github.com/lucianossf/Parabank_web_teste) | Testes de cadastro e validação de usuário com Robot Framework. |
+| [Amazon Web Test](https://github.com/lucianossf/amazon_web_test) | Exercício de testes web criado para prática e desenvolvimento de habilidades em QA. |
+
+### DevOps e aprendizado contínuo
+
+| Projeto | Escopo |
+|:--|:--|
+| [Curso DevOps Automation](https://github.com/lucianossf/curso-devops-automation) | Repositório de estudos e práticas relacionadas a DevOps e automação de processos. |
 
 ## ✦ Atividade no GitHub
 
