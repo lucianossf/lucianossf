@@ -98,11 +98,22 @@
 
 <p align="center"><a href="https://ls-anuncios.vercel.app/">Acessar o site →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Explorar repositórios →</a></p>
 
-## ✦ Atividade no GitHub
+## ✦ Visão Geral
 
-<p align="center"><a href="https://github.com/lucianossf">Ver perfil e calendário de contribuições →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Ver linguagens e projetos →</a></p>
+<p align="center">Resumo da atividade pública no GitHub e das ferramentas citadas nos projetos acima.</p>
 
----
+### Contribuições
 
-<p align="center"><strong>Vamos conversar sobre qualidade de software?</strong><br/>
-<a href="https://www.linkedin.com/in/lucianosf">Conecte-se comigo no LinkedIn →</a></p>
+<p align="center">
+  <a href="https://github.com/lucianossf?tab=overview">
+    <img src="https://ghchart.rshah.org/lucianossf" alt="Calendário de contribuições públicas no GitHub" width="100%" />
+  </a>
+</p>
+
+<p align="center"><sub>O calendário acompanha as contribuições públicas do perfil, incluindo commits reconhecidos pelo GitHub.</sub></p>
+
+### Ferramentas nos projetos de automação
+
+<p><strong>Playwright</strong>　 <code>███</code> 3 projetos<br><strong>Robot Framework</strong>　 <code>█</code> 1 projeto<br><strong>GitHub Actions</strong>　 <code>█</code> 1 projeto</p>
+
+<p align="center"><sub>Contagem de projetos públicos listados acima que citam cada ferramenta; não representa frequência de uso.</sub></p>
