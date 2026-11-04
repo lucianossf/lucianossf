@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:164E63,100:2563EB&height=220&section=header&text=Luciano%20Silveira&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=QA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20aplicada%20%C3%A0%20qualidade&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner Luciano Silveira — QA, automação e inteligência artificial aplicada à qualidade" width="100%" />
-</p>
+## ✦ Visão Geral
+
+<p align="center">Uma constelação surreal de QA, automação e produtos digitais.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucianosf"><img src="https://img.shields.io/badge/LINKEDIN-CONECTE--SE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" /></a>
-  <a href="https://github.com/lucianossf?tab=repositories"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-VER%20PROJETOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Veja meus projetos no GitHub" /></a>
+  <img src="./assets/qa-orbit-dashboard.svg" alt="Dashboard surreal com dez projetos públicos de qualidade, automação, DevOps e produtos digitais; métricas de Playwright, Robot Framework, AutoHub ERP e LS Anúncios." width="100%" />
 </p>
 
-<h2 align="center">Qualidade pensada desde o primeiro requisito.</h2>
+### Atividade no GitHub
 
-<p align="center">Analista de QA com foco em testes funcionais, automação e inteligência artificial aplicada a testes. Transformo requisitos em cenários claros, evidências úteis e mais confiança para cada entrega.</p>
+<p align="center">
+  <a href="https://github.com/lucianossf?tab=overview">
+    <img src="https://ghchart.rshah.org/lucianossf" alt="Calendário gráfico das contribuições públicas no GitHub, incluindo commits reconhecidos pelo perfil." width="100%" />
+  </a>
+</p>
 
----
+<p align="center"><sub>O painel resume os projetos públicos listados neste README. O calendário mostra contribuições públicas reconhecidas pelo GitHub.</sub></p>
 
 ## ✦ Expertise
 
@@ -95,25 +98,3 @@
 | **Aplicação** | Frontend em TypeScript, JavaScript e CSS |
 | **Backend e dados** | Node.js, NestJS, PostgreSQL e TypeORM |
 | **Recursos** | Anúncios, autenticação e área administrativa |
-
-<p align="center"><a href="https://ls-anuncios.vercel.app/">Acessar o site →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Explorar repositórios →</a></p>
-
-## ✦ Visão Geral
-
-<p align="center">Resumo da atividade pública no GitHub e das ferramentas citadas nos projetos acima.</p>
-
-### Contribuições
-
-<p align="center">
-  <a href="https://github.com/lucianossf?tab=overview">
-    <img src="https://ghchart.rshah.org/lucianossf" alt="Calendário de contribuições públicas no GitHub" width="100%" />
-  </a>
-</p>
-
-<p align="center"><sub>O calendário acompanha as contribuições públicas do perfil, incluindo commits reconhecidos pelo GitHub.</sub></p>
-
-### Ferramentas nos projetos de automação
-
-<p><strong>Playwright</strong>　 <code>███</code> 3 projetos<br><strong>Robot Framework</strong>　 <code>█</code> 1 projeto<br><strong>GitHub Actions</strong>　 <code>█</code> 1 projeto</p>
-
-<p align="center"><sub>Contagem de projetos públicos listados acima que citam cada ferramenta; não representa frequência de uso.</sub></p>
