@@ -66,7 +66,6 @@
 | Projeto | Escopo |
 |:--|:--|
 | [AutoHub ERP — apresentação do projeto](https://www.linkedin.com/posts/lucianosf_desenvolvimentodesoftware-nestjs-reactjs-activity-7471199990636351488-CO0M) | Sistema de gestão de veículos desenvolvido do zero para um cliente, com estoque, geração de comprovantes em PDF, painel financeiro e arquitetura multi-tenant. |
-| [LS Anúncios — acessar o site](https://ls-anuncios.vercel.app/) | Plataforma de classificados online em desenvolvimento, com frontend, backend, anúncios, autenticação e área administrativa. |
 
 ### DevOps e aprendizado contínuo
 
@@ -74,9 +73,11 @@
 |:--|:--|
 | [Curso DevOps Automation](https://github.com/lucianossf/curso-devops-automation) | Repositório de estudos e práticas relacionadas a DevOps e automação de processos. |
 
-## ✦ Atividade no GitHub
+## ✦ Projeto em destaque
 
-### LS Anúncios · frontend e backend
+### LS Anúncios · plataforma de classificados full-stack
+
+<p>Plataforma de classificados online em desenvolvimento, com frontend e backend, anúncios, autenticação e área administrativa.</p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -88,16 +89,18 @@
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
 </p>
 
-<p><sub>O LS Anúncios usa TypeScript, CSS e JavaScript na aplicação, com backend em Node.js/NestJS, PostgreSQL e TypeORM. Os cartões de linguagens abaixo refletem os repositórios públicos.</sub></p>
+| **Camada** | **Escopo** |
+|:--|:--|
+| **Produto** | Classificados online |
+| **Aplicação** | Frontend em TypeScript, JavaScript e CSS |
+| **Backend e dados** | Node.js, NestJS, PostgreSQL e TypeORM |
+| **Recursos** | Anúncios, autenticação e área administrativa |
 
+<p align="center"><a href="https://ls-anuncios.vercel.app/">Acessar o site →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Explorar repositórios →</a></p>
 
+## ✦ Atividade no GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianossf&locale=pt-br&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Resumo das estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&locale=pt-br&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Linguagens nos repositórios públicos" />
-</p>
-
-<p align="center"><sub>O calendário de contribuições do GitHub continua disponível no perfil. Os cartões acima resumem estatísticas públicas e linguagens dos repositórios.</sub></p>
+<p align="center"><a href="https://github.com/lucianossf">Ver perfil e calendário de contribuições →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Ver linguagens e projetos →</a></p>
 
 ---
 
