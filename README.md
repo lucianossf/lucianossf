@@ -24,7 +24,7 @@
     <td width="50%"><strong>02 · Automação</strong><br/>Fluxos E2E e API com foco em legibilidade, manutenção e feedback rápido.</td>
   </tr>
   <tr>
-    <td width="50%"><strong>03 · IA aplicada a QA</strong><br/>IA para resumir requisitos, sugerir cenários e apoiar a análise de logs e evidências.</td>
+    <td width="50%"><strong>03 · IA aplicada ao QA</strong><br/>IA para resumir requisitos, explicar conceitos básicos e apoiar a análise de logs e evidências.</td>
     <td width="50%"><strong>04 · Entrega contínua</strong><br/>BDD, Page Object Model, Git, GitHub e GitHub Actions.</td>
   </tr>
 </table>
