@@ -3,7 +3,7 @@
 <p align="center">Uma constelação surreal de QA, automação e produtos digitais.</p>
 
 <p align="center">
-  <img src="./assets/qa-orbit-dashboard.svg" alt="Dashboard surreal com dez projetos públicos de qualidade, automação, DevOps e produtos digitais; métricas de Playwright, Robot Framework, AutoHub ERP e LS Anúncios." width="100%" />
+  <img src="./qa-orbit-dashboard.gif" alt="Dashboard surreal com dez projetos públicos de qualidade, automação, DevOps e produtos digitais; métricas de Playwright, Robot Framework, AutoHub ERP e LS Anúncios." width="100%" />
 </p>
 
 ### Atividade no GitHub
