@@ -74,7 +74,7 @@
 
 #### LS Anúncios · plataforma de classificados full-stack
 
-**Projeto pessoal autoral, desenvolvido por mim e em desenvolvimento.**
+**Projeto pessoal de minha autoria, atualmente em desenvolvimento.**
 
 <p>Plataforma de classificados online em desenvolvimento, com frontend e backend, anúncios, autenticação e área administrativa.</p>
 
